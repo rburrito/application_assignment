@@ -1,32 +1,11 @@
-# Assignment
+# Introduction
 
-## Objectives
+Welcome to the killer Movie Quotes App that returns a random movie quote. To run this application, go to
 
-By the end of this project you will:
-
-- clone a Github project.
-- install a npm package.
-- debug a piece of code.
-
-## Introduction
-
-Our intern Dan is working on this killer Movie Quotes App that returns a random movie quote. Right now all it does is render a blank screen in the web browser. Fork the repository found here and help Dan fix it.  
-
-## Specifications
-
-The finished project:
-
-- loads a new fact when you refresh the page.
-- runs with no errors.
-- has the readme updated with how to run this web server.
-
-![working app](app.gif)
-
-## Submission Requirements
-
-Please include the url to your forked repository with the fixed webserver in your application to Inclusion's program.
-
-## References
-
-- [Random Movie Quotes NPM Docummentation](https://www.npmjs.com/package/random-movie-quotes)
-- [How to contribute to a github project](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)
+- Navigate to the green button on the right hand side that says "Clone or download".
+- Copy the clone or download link.
+- In your terminal or command line, clone the repository by typing "git clone download_link" replacing the word download_link with the copied one from GitHub.
+- Navigate to the newly downloaded directory.
+- Type "node index.js" to start the application.
+- Open a tab in your browser and navigate to localhost:3000
+- You should see a new movie quote. Refresh the page to see a new random movie quote.
